@@ -1,4 +1,5 @@
 # Power-BI-project
-This is HR Analytics project
+This is HR Analytics project.
 
-Includes Power BI Dashboard
+It shows which factors are responsible for employee attrition from the company using
+Power BI dashboard
